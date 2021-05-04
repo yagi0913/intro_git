@@ -3,3 +3,4 @@
 ・git commit
 
 2日目
+・git status
