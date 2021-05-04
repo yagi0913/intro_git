@@ -4,3 +4,4 @@
 
 2日目
 ・git status
+・git diff
