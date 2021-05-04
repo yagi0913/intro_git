@@ -1,3 +1,5 @@
 練習していきます。
 ・git add
 ・git commit
+
+2日目
